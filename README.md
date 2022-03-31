@@ -87,7 +87,7 @@ For best results, we suggest having
     create_all_graphs()
     ```
     
- 6. In addition, you can generate a machine-learning based playlist of optimized Mandelbrot zoom pairing songs by running Mandelbot Beta. This will then update our two machine learning Mandelbrot playlists accessible [here](https://open.spotify.com/playlist/7Gy8UubRjqosfKFdfyPQYM) and [here](https://open.spotify.com/playlist/3hILKSNoihLr3h8BqlMqn0) (Please note that this functionality will later be improved as to where it will generate playlists in .CSV format onto a user's computer)
+ 6. In addition, you can generate a machine-learning based playlist of optimized Mandelbrot zoom pairing songs by running Mandelbot Beta. This will then generate two machine learning Mandelbrot playlists. As this feature has some bugs, we have provided an example of one of these ML-generated playlist pairs which are accessible [here](https://open.spotify.com/playlist/7Gy8UubRjqosfKFdfyPQYM) and [here](https://open.spotify.com/playlist/3hILKSNoihLr3h8BqlMqn0) (Please note that this functionality will later be improved as to where it will generate playlists in .CSV format onto a user's computer)
     ```
     %run src/mandelbot_beta.py
     ```   
