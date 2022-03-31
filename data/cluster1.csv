@@ -1,0 +1,54 @@
+name,album,artist,id,release_date,popularity,danceability,energy,valence,loudness,kmeans
+Default,AMOK,Atoms For Peace,1RXnyc0zTy3aDeUxmixsev,2013-02-25,0,0.793,0.855,0.697,-4.863,1
+Alura,Alura,Sweet Trip,4Wj6bP2bTc0v2U1VifgoGA,1999-08-17,29,0.661,0.762,0.549,-9.978,1
+Building Steam With A Grain Of Salt,Endtroducing.....,DJ Shadow,4cucslsiEgezV2o900Ykg3,1996-09-16,58,0.613,0.832,0.48,-9.187,1
+The Bottom Feeders,Bastion Original Soundtrack,Darren Korb,6lcfhJLGi1kysDYVyfEskq,2011-08-05,31,0.549,0.936,0.756,-5.7,1
+Breakdown,I Robot (Legacy Edition),The Alan Parsons Project,1X8GfZOs2GR2tru3QTO9MI,1977-06-01,44,0.365,0.719,0.597,-5.336,1
+Well Rested,Civilisation II,Kero Kero Bonito,2as0SjHe6BVgirrR7GMqzY,2021-04-21,42,0.626,0.875,0.295,-7.041,1
+Eventually,Currents,Tame Impala,5M4yti0QxgqJieUYaEXcpw,2015-07-17,86,0.424,0.615,0.155,-6.217,1
+Shape Da Future,Jet Set Radio Future SEGA Original Tracks,SEGA SOUND TEAM,4Ub2nExkn7hkLfYuEPNVsM,2012-10-03,38,0.55,0.98,0.568,-5.409,1
+I Robot,I Robot (Legacy Edition),The Alan Parsons Project,3BoGLNCZJXzvRugqtROpAY,1977-06-01,44,0.598,0.809,0.492,-9.43,1
+Lotus Flower,The King Of Limbs,Radiohead,2QeutlLcJf2V1cMUUsDFT1,2011-02-18,61,0.721,0.676,0.62,-8.78,1
+Long Road Home,Magic Oneohtrix Point Never,Oneohtrix Point Never,31Ocb5xOyTkjIyv7FdBF05,2020-10-30,46,0.469,0.592,0.377,-6.934,1
+Overdose Delusion,SILENT HILL2 (Original Soundtrack),Akira Yamaoka,1r2vjxG7JnunRTFnt5zkiN,2001-10-03,38,0.212,0.707,0.306,-7.549,1
+I'll Be Here Awhile,From Chaos,311,1mHZhWJu6RVJhyu3USZdI5,2001-06-19,58,0.638,0.867,0.896,-6.815,1
+Not In Love,Not In Love feat. Robert Smith,Crystal Castles,3CsMdAuNoD7e8kRzHV24TR,2010-01-01,0,0.482,0.978,0.249,-4.132,1
+Sabali,Welcome To Mali,Amadou & Mariam,0jHZ5yXOZNKvtwPGSgL0gX,2008-11-17,60,0.596,0.639,0.233,-6.546,1
+Feel Good Inc.,Feel Good Inc. EP,Gorillaz,35SJAMEdYx6YNqCaFPInIp,2006-01-24,33,0.818,0.705,0.772,-6.679,1
+Overfloater,Down On The Upside,Soundgarden,1U8v17QBWhtJqLmJxk4Sr6,1996-05-21,40,0.359,0.619,0.568,-9.979,1
+Promise,SILENT HILL2 (Original Soundtrack),Akira Yamaoka,67rTwfoh6VyNeSsyGs1LMS,2001-10-03,47,0.519,0.737,0.163,-6.102,1
+Faith of Jevel,Bastion Original Soundtrack,Darren Korb,0GKBPISuxIyX7oiwCdYEGv,2011-08-05,31,0.628,0.866,0.554,-5.76,1
+Giorgio by Moroder,Random Access Memories,Daft Punk,0oks4FnzhNp5QPTZtoet7c,2013-05-17,70,0.74,0.682,0.41,-10.42,1
+"Kaneda (from ""AKIRA Symphonic Suite"")","Kaneda (from ""AKIRA Symphonic Suite"")",Geinoh Yamashirogumi,202I32o9vIrckOuVBSlFQj,2017-09-15,40,0.702,0.691,0.184,-14.441,1
+Schism,Lateralus,TOOL,55mJleti2WfWEFNFcBduhc,2001-05-15,73,0.567,0.714,0.191,-8.512,1
+Come a Little Closer,Melophobia,Cage The Elephant,4sebUbjqbcgDSwG6PbSGI0,2013-10-08,79,0.44,0.778,0.304,-1.786,1
+Otherside,Californication (Deluxe Edition),Red Hot Chili Peppers,64BbK9SFKH2jk86U3dGj2P,1999-06-08,83,0.458,0.795,0.513,-3.265,1
+Rotten Apple,Jar Of Flies,Alice In Chains,7Fm3NhbAYHvTQUhboim9FB,1994,62,0.31,0.637,0.426,-8.595,1
+Year of the Cat,Year of the Cat,Al Stewart,7MTX3vevnm41xuEoPxWT3j,1976,61,0.54,0.634,0.546,-9.165,1
+Paranoid Android,OK Computer,Radiohead,6LgJvl0Xdtc73RJ1mmpotq,1997-05-28,72,0.251,0.848,0.207,-6.501,1
+The Spine (feat. Ashley Barrett),Transistor Original Soundtrack,Darren Korb,4Tm7vJMSIcb8FcrLsLnirt,2014-05-20,46,0.362,0.57,0.208,-4.42,1
+1969,Geogaddi,Boards of Canada,3JZjPBwqL5F4PE55nm8iNV,2002-02-19,50,0.667,0.73,0.207,-10.049,1
+Ingenue,AMOK,Atoms For Peace,2sEBtJ37VgGe048SH9Bvqq,2013-02-25,56,0.684,0.542,0.441,-10.558,1
+Music Is Math,Geogaddi,Boards of Canada,3vBJYnujT3yxLjLEG1jtDS,2002-02-19,50,0.542,0.799,0.116,-11.021,1
+Tomorrow Never Knows - Remastered 2009,Revolver (Remastered),The Beatles,00oZhqZIQfL9P5CjOP6JsO,1966-08-05,60,0.38,0.829,0.0534,-6.105,1
+Long Tall Eyelash 2018,LSD REVAMPED,OSAMU SATO,3QuVj43fZm4HCOqkxvXFDf,2018-04-11,17,0.568,0.913,0.676,-8.57,1
+Goalkeeper,Chinese Football,Chinese Football,0xmqkQSRbdmHv4ALaGsCTe,2015-09-12,39,0.625,0.771,0.409,-4.339,1
+Strangers In The Night,Stubbs The Zombie: The Soundtrack,Various Artists,2P6GoKR9zTP06nkOmmjrz5,2005-01-01,22,0.714,0.485,0.616,-8.323,1
+Vog Chamber - Original OST,Borderlands 2: Complete (Original Soundtrack),Various Artists,1e0mzf5tfVoPbueoIL1LmE,2019-10-30,22,0.57,0.61,0.356,-15.759,1
+Mutual Slump,Endtroducing.....,DJ Shadow,5n8Na7z10ZfpfygddJlz3W,1996-09-16,37,0.496,0.814,0.254,-6.291,1
+Black Hot Soup - DJ Shadow “My Own Reality” Re-Write,Black Hot Soup (DJ Shadow “My Own Reality” Re-Write),King Gizzard & The Lizard Wizard,4dXsEEQarPsh8udGfRUE30,2022-01-07,50,0.587,0.976,0.757,-5.604,1
+Past Life,Currents,Tame Impala,4a9fW33mYR8LhXBOLUhbfF,2015-07-17,64,0.371,0.778,0.288,-7.196,1
+"New Person, Same Old Mistakes",Currents,Tame Impala,52ojopYMUzeNcudsoz7O9D,2015-07-17,81,0.47,0.809,0.49,-6.74,1
+When the Levee Breaks - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,05f8Hg3RSfiPSCBQOtxl3i,1971-11-08,67,0.271,0.766,0.803,-8.03,1
+Pacific Rim (feat. Tom Morello),Pacific Rim (Soundtrack from Warner Bros. Pictures and Legendary Pictures),Ramin Djawadi,0lEHnMNNYusZtbon9XyA2W,2013-07-23,50,0.566,0.686,0.527,-9.324,1
+Celestial Spaceport,Borderlands: The Pre-Sequel (Original Soundtrack),Jesper Kyd,1b2RGg45phmdyRBlYgYrkq,2019-10-30,15,0.48,0.731,0.563,-11.635,1
+Breathless - Instrumental,Something / Anything?,Todd Rundgren,2PorMZrQi8RtTwwH0IYqvF,1972,27,0.227,0.655,0.376,-11.559,1
+Sound Check (Gravity),Gorillaz,Gorillaz,7JyVUB9LUVZgrJDFLOKdp8,2001,47,0.579,0.586,0.42,-9.318,1
+Brazil,Pottery Pie,Geoff & Maria Muldaur,1HDLnDrZSxZ2Rb1yq9nZKK,1970,47,0.507,0.572,0.769,-11.195,1
+Mammagamma - Instrumental,Eye In The Sky (Expanded Edition),The Alan Parsons Project,2H2riBoltlfKrU7i495hvf,1982,53,0.695,0.477,0.834,-12.431,1
+Tomorrow Comes Today,Gorillaz,Gorillaz,3qdDjz9kOvquEFbvXBYOMQ,2001,58,0.751,0.596,0.57,-4.594,1
+Good Times,Good Times,Mothas la Mascarade,2YUNQn8WhnLpWoeAQJWqI7,2018-09-14,52,0.526,0.823,0.725,-6.403,1
+Any Colour You Like,The Dark Side of the Moon,Pink Floyd,6FBPOJLxUZEair6x4kLDhf,1973-03-01,64,0.277,0.672,0.505,-12.582,1
+Anna Stesia,Lovesexy,Prince,22nLYP4kokaWZAmghG9Z9n,1988-05-10,25,0.656,0.665,0.504,-10.43,1
+J'ai demandé à la lune,Paradize,Indochine,2QSAj76Ba6aMFX9RlXdUdO,2002-02-28,63,0.712,0.632,0.619,-9.017,1
+Step by Step,Eye In The Sky (Expanded Edition),The Alan Parsons Project,0tCcvzZBtU5atsk7gBJ8Hg,1982,41,0.695,0.567,0.855,-10.897,1
