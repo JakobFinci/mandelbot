@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/olincollege/the-mandelbot-plus/blob/76b09a78315e1e93dc296820415f3636d1bb54b9/images/mandelbot1.png"/>
+  <img src="https://github.com/JakobFinci/mandelbot/blob/main/images/mandelbot1.png"/>
 </p>
 <h1 align="center">The Mandelbot+</h1>
 
@@ -9,7 +9,7 @@
 The Mandelbot Plus is a collection of two bots: Mandelbot Alpha and Mandelbot Beta, as well as assorted utilities (unit testing tools, data visualization tools, etc). The Mandelbot was created by, and is the intellectual property of, Eliyahu Suskind and Priscila Morales. Its ultimate purpose is to create and update an algorithm to find songs that pair well perceptually with Mandelbrot zoom sequence videos through data analytics and computing.
 
 <p align="center">
-  <img src="https://github.com/olincollege/the-mandelbot-plus/blob/76b09a78315e1e93dc296820415f3636d1bb54b9/images/mauda.jpeg"/>
+  <img src="https://github.com/JakobFinci/mandelbot/blob/main/images/mauda.jpeg"/>
 </p>
 <p>
     <em>An early digital depicition of the Mandelbrot set, circa 1978</em>
@@ -34,7 +34,7 @@ For best results, we suggest having
 ### Local Setup
 1. First, clone the repository to your computer:
     ```
-    git clone https://github.com/olincollege/the-mandelbot-plus.git
+    git clone https://github.com/JakobFinci/mandelbot.git
     ```
 
 2. It's recommended that you run this project from a Python virtual environment with an anaconda interpreter, which can be set up like this:
@@ -87,7 +87,7 @@ For best results, we suggest having
     create_all_graphs()
     ```
     
- 6. In addition, you can generate a machine-learning based playlist of optimized Mandelbrot zoom pairing songs by running Mandelbot Beta. This will then update our two machine learning Mandelbrot playlists accessible [here](https://open.spotify.com/playlist/7Gy8UubRjqosfKFdfyPQYM) and [here](https://open.spotify.com/playlist/3hILKSNoihLr3h8BqlMqn0) (Please note that this functionality will later be improved as to where it will generate playlists in .CSV format onto a user's computer)
+ 6. In addition, you can generate a machine-learning based playlist of optimized Mandelbrot zoom pairing songs by running Mandelbot Beta. This will then generate two machine learning Mandelbrot playlists. As this feature has some bugs, we have provided an example of one of these ML-generated playlist pairs which are accessible [here](https://open.spotify.com/playlist/7Gy8UubRjqosfKFdfyPQYM) and [here](https://open.spotify.com/playlist/3hILKSNoihLr3h8BqlMqn0) (Please note that this functionality will later be improved as to where it will generate playlists in .CSV format onto a user's computer)
     ```
     %run src/mandelbot_beta.py
     ```   
