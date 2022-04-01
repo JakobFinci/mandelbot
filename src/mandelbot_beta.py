@@ -153,13 +153,15 @@ sp_user = spotipy.Spotify(auth=token_user)
 token_playlist = util.prompt_for_user_token(
     config.USERNAME, SCOPE_PLAYLIST, config.CLIENT_ID, config.CLIENT_SECRET, REDIRECT_URI)
 sp_playlist = spotipy.Spotify(auth=token_playlist)
-cluster_0 = pd.read_csv("data/cluster0.csv")
-cluster_1 = pd.read_csv("data/cluster1.csv")
+cluster_0 = pd.read_csv("src/data/cluster0.csv")
+cluster_1 = pd.read_csv("src/data/cluster1.csv")
 ids_0 = cluster_0['id'].tolist()
 ids_1 = cluster_1['id'].tolist()
 energetic_mandelbot = sp_playlist.user_playlist_create(
     config.USERNAME, "The Energetic Mandelbot Blend")
 calm_mandelbot = sp_playlist.user_playlist_create(
     config.USERNAME, "The Calm Mandelbot Blend")
-sp_playlist.user_playlist_add_tracks(config.USERNAME, energetic_mandelbot, ids_0)
-sp_playlist.user_playlist_add_tracks(config.USERNAME, calm_mandelbot, ids_1)
+sp_playlist.user_playlist_add_tracks(
+    config.USERNAME, energetic_mandelbot, ids_0)
+sp_playlist.user_playlist_add_tracks(
+    config.USERNAME, calm_mandelbot, ids_1)
