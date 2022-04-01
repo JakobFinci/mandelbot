@@ -1,5 +1,6 @@
 config.py
 .cache
 .ipynb_checkpoints/
+src/.cache
 src/__pycache__/
 src/tests/__pycache__/
