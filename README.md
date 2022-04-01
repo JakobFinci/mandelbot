@@ -96,8 +96,11 @@ For best results, we suggest having
 The following are required to run this program. Note that requirements may already be satisfied and additional platform-specific dependencies may be required depending on your target environment.
 
 ### General Use
+- [numpy](https://pypi.org/project/numpy/)
 - [pip](https://pypi.org/project/pip/)
 - [pandas](https://pypi.org/project/pandas/)
+- [scipy](https://pypi.org/project/scipy/)
+- [skit-learn](https://pypi.org/project/scikit-learn/)
 
 ### Data Visualization
 - [matplotlib](https://pypi.org/project/matplotlib/)
